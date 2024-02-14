@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subu2608
-- 👀 I’m interested in Coding..
+- 👀 I’m interested in exploring learning paths
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Coding role
 - 📫 How to reach me +91 9442400341 / iamsubu@outlook.in
