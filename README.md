@@ -1,27 +1,40 @@
-👋 Hi, I’m Subramaian Arunachalam (@subu2608)
+👋 Hi, I'm Subramanian Arunachalam
 
-### 🌱 My Skills
-- Python programming  
-- Core programming concepts  
-- AI concepts & hands-on experimentation  
+Techno-functional professional with 5+ years of experience in telecommunications (British Telecom project) and MBA in Technology Management.
 
-### 🎯 My goals
-- Build consistency in coding  
-- Explore multiple programming languages  
-- Develop strong AI-focused skills  
-- Create projects that improve my learning  
+Currently focused on automation-driven solutions combining domain expertise with Python, SQL, and AI workflow integration.
 
-### 🧠 My learning mindset
-- I’m not claiming mastery — I’m on a journey.  
-- Every day I explore, practice, and learn something new.
+🔧 Technical Focus Areas
 
-📫 How to reach me +91 9442400341 / iamsubu@outlook.in
+Process Automation
 
-😄 Pronouns: Subu / Vicky  
+API Integrations
 
-⚡ Fun fact: I am writing this as I got interview call 5 mins back..
+Workflow Orchestration
 
-<!---
-subu2608/subu2608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Handling & SQL
+
+AI-assisted systems with human-in-the-loop validation
+
+🚀 Featured Project
+AI-Powered YouTube Comment Automation Agent
+
+Tech Stack: Python · SQL · JavaScript · YouTube API · Telegram Bot API · Workflow Automation
+
+Key Implementations:
+
+Automated comment fetching via YouTube Data API
+
+AI-based contextual response generation
+
+Human approval loop through Telegram bot
+
+Deduplication logic & pagination handling
+
+Structured workflow orchestration
+
+📫 Contact
+
+Email: iamsubu@outlook.in
+
+LinkedIn: [(link)](https://www.linkedin.com/in/asubramanian-subu/)
