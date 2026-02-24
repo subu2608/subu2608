@@ -37,4 +37,4 @@ Structured workflow orchestration
 
 Email: iamsubu@outlook.in
 
-LinkedIn: [(link)](https://www.linkedin.com/in/asubramanian-subu/)
+LinkedIn: (https://www.linkedin.com/in/asubramanian-subu/)
