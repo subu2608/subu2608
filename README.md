@@ -1,20 +1,25 @@
 👋 Hi, I'm Subramanian Arunachalam
 
-Techno-functional professional with 5+ years of experience in telecommunications (British Telecom project) and MBA in Technology Management.
+Techno-functional professional with 5+ years of experience in telecommunications (British Telecom project – UK) and an MBA in Technology Management.
 
-Currently focused on automation-driven solutions combining domain expertise with Python, SQL, and AI workflow integration.
+Currently building automation-driven solutions by combining telecom domain expertise with Python, SQL, API integrations, and AI workflow orchestration.
 ________________________________________
 🔧 Technical Focus Areas
 
 •	Process Automation
+
 •	API Integrations
+
 •	Workflow Orchestration
+
 •	Data Handling & SQL
+
 •	AI-assisted systems with human-in-the-loop validation
 ________________________________________
+
 🚀 Featured Project
 
-AI-Powered YouTube Comment Automation Agent
+AI-Powered YouTube Comment Automation System
 
 Tech Stack: Python · SQL · JavaScript · YouTube API · Telegram Bot API · Workflow Automation
 
@@ -22,7 +27,7 @@ Key Implementations:
 
 •	Automated comment fetching via YouTube Data API
 
-•	AI-based contextual response generation
+•	AI-assisted contextual response generation using API-based processing
 
 •	Human approval loop through Telegram bot
 
