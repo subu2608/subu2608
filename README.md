@@ -19,7 +19,7 @@ ________________________________________
 
 🚀 Featured Project
 
-AI-Powered YouTube Comment Automation System
+AI-Powered YouTube Comment Automation System - Designed to reduce manual comment handling effort through structured automation and approval workflow integration.
 
 Tech Stack: Python · SQL · JavaScript · YouTube API · Telegram Bot API · Workflow Automation
 
